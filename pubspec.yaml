@@ -2,7 +2,7 @@ name: otel_thirdweb
 description: >-
   OpenTelemetry instrumentation for thirdweb by Dartastic.io. Adds standard
   OpenTelemetry observability to applications that use thirdweb.
-version: 0.1.0-wip
+version: 0.1.0
 repository: https://github.com/dartastic/otel_thirdweb
 homepage: https://dartastic.io
 
